@@ -1,1 +1,2 @@
+*.gmk linguist-detectable=true
 *.gmk linguist-language=Java
